@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:1:11-50
+		INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:1:1-4:12
+uses-sdk
+ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+	tools:overrideLibrary
+		ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:13-68
+	android:targetSdkVersion
+		INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+		INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml:3:3-71
+		INJECTED from C:\Users\AbolfazlDev\AppData\Local\Pub\Cache\hosted\pub.dev\qr_code_scanner-1.0.1\android\src\main\AndroidManifest.xml

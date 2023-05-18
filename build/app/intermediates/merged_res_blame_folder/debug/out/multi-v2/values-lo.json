@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.blue_bank.app-mergeDebugResources-9:/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AbolfazlDev\\.gradle\\caches\\transforms-3\\7eaf978847a236524040d366c2f5acf9\\transformed\\core-1.6.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

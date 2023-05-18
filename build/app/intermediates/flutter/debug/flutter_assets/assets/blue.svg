@@ -1,0 +1,105 @@
+<svg width="86" height="53" viewBox="0 0 86 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="EN_Full">
+<g id="Vector">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M45.3628 4.81833H49.6423V48.6982C49.6423 51.0741 47.7263 53.0001 45.3628 53.0001H41.0833V9.12028C41.0833 6.74438 42.9993 4.81833 45.3628 4.81833ZM65.0486 22.198V38.5454C65.0486 42.1588 67.7131 44.9123 71.2111 44.9123C74.6741 44.9123 77.3736 42.1584 77.3728 38.6507L77.3734 22.198C77.3737 19.8222 79.2897 17.8962 81.6531 17.8961H85.9326V38.2013C85.9326 46.3744 79.3416 53 71.2111 53C63.0806 53 56.4896 46.3744 56.4896 38.2013V17.8961H60.7691C63.1326 17.8961 65.0486 19.8221 65.0486 22.198ZM8.55884 21.1547L8.55903 4.819H4.27951C1.93817 4.819 0 6.73036 0 9.12095V35.793L0.00712815 35.7933C0.271057 45.3431 7.83085 53.0008 17.1181 53.0008C26.5721 53.0008 34.2349 45.3431 34.2361 35.2768C34.2361 35.2075 34.2357 35.1382 34.2349 35.0692C34.2357 34.9951 34.2361 34.9209 34.2361 34.8466C34.2361 25.1054 27.1852 17.2086 18.4875 17.2086C14.7236 17.2086 11.268 18.6875 8.55884 21.1547ZM8.04549 35.0187C8.04549 29.5541 12.0308 25.1242 16.9469 25.1242C21.863 25.1242 25.8483 29.5541 25.8483 35.0187C25.8483 40.4832 21.863 44.9132 16.9469 44.9132C12.0308 44.9132 8.04549 40.4832 8.04549 35.0187Z" fill="#E7EAEF"/>
+<path id="Oval" d="M20.5418 6.88312C22.4326 6.88312 23.9654 5.34228 23.9654 3.44156C23.9654 1.54084 22.4326 0 20.5418 0C18.651 0 17.1182 1.54084 17.1182 3.44156C17.1182 5.34228 18.651 6.88312 20.5418 6.88312Z" fill="#E7EAEF"/>
+</g>
+</g>
+<script xmlns="">{
+            document.currentScript.dataset.injected = true;
+            const o = JSON.parse(decodeURIComponent(escape(atob('eyJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDEzXzNfMSBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTMuMC41IE1vYmlsZS8xNUUxNDggU25hcGNoYXQvMTAuNzcuNS41OSAobGlrZSBTYWZhcmkvNjA0LjEpIiwiYXBwVmVyc2lvbiI6IjUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDEzXzNfMSBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTMuMC41IE1vYmlsZS8xNUUxNDggU25hcGNoYXQvMTAuNzcuNS41OSAobGlrZSBTYWZhcmkvNjA0LjEpIiwicGxhdGZvcm0iOiJpT1MiLCJ2ZW5kb3IiOiJBcHBsZSBDb21wdXRlciwgSW5jLiIsInByb2R1Y3QiOiJHZWNrbyIsInVzZXJBZ2VudERhdGEiOiJbZGVsZXRlXSIsIm9zY3B1IjoiW2RlbGV0ZV0iLCJidWlsZElEIjoiW2RlbGV0ZV0iLCJwcm9kdWN0U3ViIjoiMjAwMzAxMDcifQ=='))));
+
+            if (o.userAgentDataBuilder) {
+              const v = new class NavigatorUAData {
+                #p;
+
+                constructor({p, ua}) {
+                  this.#p = p;
+
+                  const version = p.browser.major;
+                  const name = p.browser.name === 'Chrome' ? 'Google Chrome' : p.browser.name;
+
+                  this.brands = [{
+                    brand: name,
+                    version
+                  }, {
+                    brand: 'Chromium',
+                    version
+                  }, {
+                    brand: 'Not=A?Brand',
+                    version: '24'
+                  }];
+
+                  this.mobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua);
+
+                  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Sec-CH-UA-Platform
+                  this.platform = 'Unknown';
+                  if (p.os &amp;&amp; p.os.name) {
+                    const name = p.os.name.toLowerCase();
+                    if (name.includes('mac')) {
+                      this.platform = 'macOS';
+                    }
+                    else if (name.includes('debian')) {
+                      this.platform = 'Linux';
+                    }
+                    else {
+                      this.platform = p.os.name;
+                    }
+                  }
+                }
+                toJSON() {
+                  return {
+                    brands: this.brands,
+                    mobile: this.mobile,
+                    platform: this.platform
+                  };
+                }
+                getHighEntropyValues(hints) {
+                  if (!hints || Array.isArray(hints) === false) {
+                    return Promise.reject(Error("Failed to execute 'getHighEntropyValues' on 'NavigatorUAData'"));
+                  }
+
+                  const r = this.toJSON();
+
+                  if (hints.includes('architecture')) {
+                    r.architecture = this.#p?.cpu?.architecture || 'x86';
+                  }
+                  if (hints.includes('bitness')) {
+                    r.bitness = '64';
+                  }
+                  if (hints.includes('model')) {
+                    r.model = '';
+                  }
+                  if (hints.includes('platformVersion')) {
+                    r.platformVersion = this.#p?.os?.version || '10.0.0';
+                  }
+                  if (hints.includes('uaFullVersion')) {
+                    r.uaFullVersion = this.brands[0].version;
+                  }
+                  if (hints.includes('fullVersionList')) {
+                    r.fullVersionList = this.brands;
+                  }
+                  return Promise.resolve(r);
+                }
+              }(o.userAgentDataBuilder);
+
+              navigator.__defineGetter__('userAgentData', () =&gt; {
+                return v;
+              });
+            }
+            delete o.userAgentDataBuilder;
+
+            for (const key of Object.keys(o)) {
+              if (o[key] === '[delete]') {
+                delete Object.getPrototypeOf(window.navigator)[key];
+              }
+              else {
+                navigator.__defineGetter__(key, () =&gt; {
+                  if (o[key] === 'empty') {
+                    return '';
+                  }
+                  return o[key];
+                });
+              }
+            }
+          }</script></svg>

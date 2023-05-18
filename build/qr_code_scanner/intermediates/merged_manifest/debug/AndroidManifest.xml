@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="net.touchcapture.qr.flutterqr" >
+
+    <uses-sdk
+        android:minSdkVersion="20"
+        android:targetSdkVersion="32"
+        tools:overrideLibrary="com.google.zxing.client.android" />
+
+</manifest>

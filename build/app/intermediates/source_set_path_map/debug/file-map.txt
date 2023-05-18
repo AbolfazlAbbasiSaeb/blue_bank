@@ -1,0 +1,12 @@
+com.example.blue_bank.app-jetified-annotation-experimental-1.1.0-0 C:\Users\AbolfazlDev\.gradle\caches\transforms-3\682bb2ab34369d27b01ef8b62bf692f9\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.blue_bank.app-core-1.6.0-1 C:\Users\AbolfazlDev\.gradle\caches\transforms-3\7eaf978847a236524040d366c2f5acf9\transformed\core-1.6.0\res
+com.example.blue_bank.app-jetified-window-1.0.0-beta04-2 C:\Users\AbolfazlDev\.gradle\caches\transforms-3\8eeabe4096b0a4fb517cb33c720bec8a\transformed\jetified-window-1.0.0-beta04\res
+com.example.blue_bank.app-jetified-window-java-1.0.0-beta04-3 C:\Users\AbolfazlDev\.gradle\caches\transforms-3\9a591889a141d4f5c545adcc02252186\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.blue_bank.app-debug-4 D:\blue_bank\android\app\src\debug\res
+com.example.blue_bank.app-main-5 D:\blue_bank\android\app\src\main\res
+com.example.blue_bank.app-pngs-6 D:\blue_bank\build\app\generated\res\pngs\debug
+com.example.blue_bank.app-resValues-7 D:\blue_bank\build\app\generated\res\resValues\debug
+com.example.blue_bank.app-rs-8 D:\blue_bank\build\app\generated\res\rs\debug
+com.example.blue_bank.app-mergeDebugResources-9 D:\blue_bank\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.blue_bank.app-mergeDebugResources-10 D:\blue_bank\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.blue_bank.app-merged_res-11 D:\blue_bank\build\app\intermediates\merged_res\debug
