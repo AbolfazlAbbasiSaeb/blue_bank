@@ -2,7 +2,6 @@
 
 بلوبانک با فلاتر 3.10
 طراحی تمامی صفحات
-# صغحه لاگین
 ![Screenshot_1684430599](https://github.com/AbolfazlAbbasiSaeb/blue_bank/assets/87444842/d2344e52-b699-4503-9dc7-a54c2defa5aa)
 ![Screenshot_1684430624](https://github.com/AbolfazlAbbasiSaeb/blue_bank/assets/87444842/525807ab-253e-4585-956a-b9d0a5eb94af)
 ![IMG_5338](https://github.com/AbolfazlAbbasiSaeb/blue_bank/assets/87444842/9c8bae7b-a369-4808-ba09-7aad1e3f1891)
