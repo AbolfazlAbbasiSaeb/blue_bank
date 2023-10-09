@@ -213,7 +213,7 @@ class _LoginPagePageState extends State<LoginPagePage> {
               ),
               GestureDetector(
                 child: const Text(
-                  "نباز به کمک دارم",
+                  "نیاز به کمک دارم",
                   style: TextStyle(
                     package: 'persian_fonts',
                     color: Colors.blue,
